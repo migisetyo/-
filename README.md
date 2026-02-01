@@ -49,7 +49,7 @@
             <div class="relative w-full aspect-video overflow-hidden rounded-2xl shadow-lg bg-gray-200">
                 <img src="file_000000001_metting.png" alt="Meeting Progress" class="w-full h-full object-cover object-center">
                 <div class="absolute bottom-3 left-3 bg-black/70 text-white text-[10px] px-3 py-1 rounded-full backdrop-blur-sm">
-                    <i class="fas fa-users mr-2 text-yellow-500"></i> Strategic Planning
+                    <i class="fas fa-users mr-2 text-yellow-500"></i> Strategic Planning & Leadership
                 </div>
             </div>
             <p class="mt-2 text-xs text-gray-500 text-center italic">Manajemen operasional & koordinasi tim</p>
@@ -59,7 +59,7 @@
             <div class="relative w-full aspect-video overflow-hidden rounded-2xl shadow-lg bg-gray-200">
                 <img src="IMG_20200222_185236_latte.jpg" alt="Latte Art Product" class="w-full h-full object-cover object-center">
                 <div class="absolute bottom-3 left-3 bg-black/70 text-white text-[10px] px-3 py-1 rounded-full backdrop-blur-sm">
-                    <i class="fas fa-coffee mr-2 text-yellow-500"></i> Quality Control
+                    <i class="fas fa-coffee mr-2 text-yellow-500"></i> Quality Control & Beverage Crafting
                 </div>
             </div>
             <p class="mt-2 text-xs text-gray-500 text-center italic">Keahlian teknis & standar kualitas produk</p>
@@ -115,12 +115,12 @@
                 </div>
             </div>
 
-        </div>
+        
 
         <footer class="bg-gray-50 p-6 text-center border-t border-gray-100">
             <p class="text-gray-400 text-[10px] font-bold uppercase tracking-[0.3em]">Migi Setyo Sugiarto Adi &copy; 2024</p>
         </footer>
-    </div>
+    
 
 </body>
 </html>
