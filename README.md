@@ -41,20 +41,30 @@
                     </p>
                 </div>
             </div>
-
             <div class="mb-12">
-                <h2 class="text-center text-gray-400 font-black uppercase tracking-[0.2em] text-xs mb-6">Expertise in Action</h2>
-                <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-                    <div class="relative group">
-                        <img src="file_000000001_metting.png" alt="Meeting Progress" class="img-gallery shadow-lg">
-                        <div class="absolute bottom-4 left-4 bg-black/60 text-white text-xs px-3 py-1 rounded-full backdrop-blur-sm">
-                            <i class="fas fa-users mr-2"></i> Strategic Planning & Leadership
-                        </div>
-                    </div>
-                    <div class="relative group">
-                        <img src="IMG_20200222_185236_latte.jpg" alt="Latte Art Product" class="img-gallery shadow-lg">
-                        <div class="absolute bottom-4 left-4 bg-black/60 text-white text-xs px-3 py-1 rounded-full backdrop-blur-sm">
-                            <i class="fas fa-coffee mr-2"></i> Quality Control & Beverage Crafting
+    <h2 class="text-center text-gray-400 font-black uppercase tracking-[0.2em] text-xs mb-6">Expertise in Action</h2>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+        
+        <div class="flex flex-col">
+            <div class="relative w-full aspect-video overflow-hidden rounded-2xl shadow-lg bg-gray-200">
+                <img src="file_000000001_metting.png" alt="Meeting Progress" class="w-full h-full object-cover object-center">
+                <div class="absolute bottom-3 left-3 bg-black/70 text-white text-[10px] px-3 py-1 rounded-full backdrop-blur-sm">
+                    <i class="fas fa-users mr-2 text-yellow-500"></i> Strategic Planning
+                </div>
+            </div>
+            <p class="mt-2 text-xs text-gray-500 text-center italic">Manajemen operasional & koordinasi tim</p>
+        </div>
+
+        <div class="flex flex-col">
+            <div class="relative w-full aspect-video overflow-hidden rounded-2xl shadow-lg bg-gray-200">
+                <img src="IMG_20200222_185236_latte.jpg" alt="Latte Art Product" class="w-full h-full object-cover object-center">
+                <div class="absolute bottom-3 left-3 bg-black/70 text-white text-[10px] px-3 py-1 rounded-full backdrop-blur-sm">
+                    <i class="fas fa-coffee mr-2 text-yellow-500"></i> Quality Control
+                </div>
+            </div>
+            <p class="mt-2 text-xs text-gray-500 text-center italic">Keahlian teknis & standar kualitas produk</p>
+        </div>
+            
                         </div>
                     </div>
                 </div>
