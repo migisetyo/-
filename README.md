@@ -57,10 +57,6 @@
                             <i class="fas fa-coffee mr-2"></i> Quality Control & Beverage Crafting
                         </div>
                     </div>
-                     <div class="relative group">
-                        <img src="IMG_20200227_204600_bar.jpg" alt="Bar Craft" class="img-gallery shadow-lg">
-                        <div class="absolute bottom-4 left-4 bg-black/60 text-white text-xs px-3 py-1 rounded-full backdrop-blur-sm">
-                            <i class="fas fa-coffee mr-2"></i> Quality Control & Beverage Crafting
                 </div>
             </div>
 
