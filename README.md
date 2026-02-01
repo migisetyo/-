@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -37,7 +36,7 @@
                 <div class="bg-gray-50 p-6 rounded-2xl border border-gray-100 shadow-sm">
                     <h2 class="text-xs font-black uppercase tracking-widest text-gray-400 mb-3">Professional Objective</h2>
                     <p class="text-gray-700 text-sm leading-relaxed">
-                        Mencari posisi di bidang F&B Operations, Store Management, atau Purchasing untuk meningkatkan efisiensi operasional dan pertumbuhan bisnis melalui pengalaman manajerial saya[cite: 6].
+                        Mencari posisi di bidang F&B Operations, Store Management, atau Purchasing untuk meningkatkan efisiensi operasional dan pertumbuhan bisnis melalui pengalaman manajerial saya.
                     </p>
                 </div>
             </div>
@@ -64,19 +63,19 @@
                 <div class="hybrid-card bg-[#f97316] p-8 rounded-2xl text-white shadow-lg">
                     <h3 class="text-xl font-bold uppercase mb-4"><i class="fas fa-mug-hot mr-2"></i> Production Expert</h3>
                     <ul class="space-y-2 text-sm">
-                        <li>• Barista & Bartender Expert [cite: 3, 31]</li>
-                        <li>• Menu R&D & Recipe Development [cite: 28]</li>
-                        <li>• Certified Food & Beverage Serving [cite: 29]</li>
-                        <li>• Equipment Maintenance & SOP 100% [cite: 10]</li>
+                        <li>• Barista & Bartender Expert </li>
+                        <li>• Menu R&D & Recipe Development </li>
+                        <li>• Certified Food & Beverage Serving </li>
+                        <li>• Equipment Maintenance & SOP 100% </li>
                     </ul>
                 </div>
                 <div class="hybrid-card bg-[#2563eb] p-8 rounded-2xl text-white shadow-lg">
                     <h3 class="text-xl font-bold uppercase mb-4"><i class="fas fa-chart-pie mr-2"></i> Strategic Management</h3>
                     <ul class="space-y-2 text-sm">
-                        <li>• Store Manager & Operations [cite: 17, 18]</li>
-                        <li>• Purchasing & Vendor Negotiation [cite: 12, 15]</li>
-                        <li>• Inventory & Cost Control (Waste -15%) [cite: 8, 13]</li>
-                        <li>• Team Leadership & Staff Coaching [cite: 18, 23]</li>
+                        <li>• Store Manager & Operations </li>
+                        <li>• Purchasing & Vendor Negotiation </li>
+                        <li>• Inventory & Cost Control (Waste -15%) </li>
+                        <li>• Team Leadership & Staff Coaching </li>
                     </ul>
                 </div>
             </div>
