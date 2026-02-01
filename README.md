@@ -89,7 +89,7 @@
     
     <a href="https://wa.me/628112683668" target="_blank" class="flex items-center justify-center gap-3 bg-green-500 text-white px-10 py-4 rounded-xl font-bold hover:bg-green-600 transition-all w-full md:w-auto shadow-xl">
         <i class="fab fa-whatsapp text-lg"></i> HUBUNGI SAYA
-    </a>
+    
                     </a>
                 </div>
             </div>
