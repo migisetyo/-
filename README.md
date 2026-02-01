@@ -47,7 +47,7 @@
         
         <div class="flex flex-col">
             <div class="relative w-full aspect-video overflow-hidden rounded-2xl shadow-lg bg-gray-200">
-                <img src="file_000000001_metting.png" alt="Meeting Progress" class="w-full h-full object-cover object-center">
+                <img src="foto meeting.png" alt="Meeting Progress" class="w-full h-full object-cover object-center">
                 <div class="absolute bottom-3 left-3 bg-black/70 text-white text-[10px] px-3 py-1 rounded-full backdrop-blur-sm">
                     <i class="fas fa-users mr-2 text-yellow-500"></i> Strategic Planning & Leadership
                 </div>
@@ -57,7 +57,7 @@
 
         <div class="flex flex-col">
             <div class="relative w-full aspect-video overflow-hidden rounded-2xl shadow-lg bg-gray-200">
-                <img src="IMG_20200222_185236_latte.jpg" alt="Latte Art Product" class="w-full h-full object-cover object-center">
+                <img src="foto produc.png" alt="Latte Art Product" class="w-full h-full object-cover object-center">
                 <div class="absolute bottom-3 left-3 bg-black/70 text-white text-[10px] px-3 py-1 rounded-full backdrop-blur-sm">
                     <i class="fas fa-coffee mr-2 text-yellow-500"></i> Quality Control & Beverage Crafting
                 </div>
