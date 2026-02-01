@@ -46,17 +46,21 @@
                 <h2 class="text-center text-gray-400 font-black uppercase tracking-[0.2em] text-xs mb-6">Expertise in Action</h2>
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                     <div class="relative group">
-                        <img src="meeting.jpg" alt="Meeting Progress" class="img-gallery shadow-lg">
+                        <img src="file_000000001_metting.png" alt="Meeting Progress" class="img-gallery shadow-lg">
                         <div class="absolute bottom-4 left-4 bg-black/60 text-white text-xs px-3 py-1 rounded-full backdrop-blur-sm">
                             <i class="fas fa-users mr-2"></i> Strategic Planning & Leadership
                         </div>
                     </div>
                     <div class="relative group">
-                        <img src="produk.jpg" alt="Latte Art Product" class="img-gallery shadow-lg">
+                        <img src="IMG_20200222_185236_latte.jpg" alt="Latte Art Product" class="img-gallery shadow-lg">
                         <div class="absolute bottom-4 left-4 bg-black/60 text-white text-xs px-3 py-1 rounded-full backdrop-blur-sm">
                             <i class="fas fa-coffee mr-2"></i> Quality Control & Beverage Crafting
                         </div>
                     </div>
+                     <div class="relative group">
+                        <img src="IMG_20200227_204600_bar.jpg" alt="Bar Craft" class="img-gallery shadow-lg">
+                        <div class="absolute bottom-4 left-4 bg-black/60 text-white text-xs px-3 py-1 rounded-full backdrop-blur-sm">
+                            <i class="fas fa-coffee mr-2"></i> Quality Control & Beverage Crafting
                 </div>
             </div>
 
