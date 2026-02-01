@@ -30,13 +30,13 @@
                 <div class="bg-gray-50 p-6 rounded-2xl border border-gray-100 shadow-sm">
                     <h2 class="text-xs font-black uppercase tracking-widest text-gray-400 mb-3">Executive Summary</h2>
                     <p class="text-gray-700 text-sm leading-relaxed">
-                        Profesional F&B dengan **pengalaman lebih dari 5 tahun** yang mencakup seluruh spektrum operasional, mulai dari teknis Barista hingga tingkat manajemen. Ahli dalam **cost control**, optimasi inventaris, dan pengembangan menu (R&D) yang bertujuan untuk menekan biaya operasional tanpa mengurangi standar kualitas produk.
+                        Profesional F&B dengan pengalaman lebih dari 5 tahun yang mencakup seluruh spektrum operasional, mulai dari teknis Barista hingga tingkat manajemen. Ahli dalam cost control, optimasi inventaris, dan pengembangan menu (R&D) yang bertujuan untuk menekan biaya operasional tanpa mengurangi standar kualitas produk.
                     </p>
                 </div>
                 <div class="bg-gray-50 p-6 rounded-2xl border border-gray-100 shadow-sm">
                     <h2 class="text-xs font-black uppercase tracking-widest text-gray-400 mb-3">Professional Objective</h2>
                     <p class="text-gray-700 text-sm leading-relaxed">
-                        Berambisi untuk menempati posisi manajemen strategis di industri F&B di mana saya dapat menerapkan kemampuan analitis data dan kepemimpinan tim untuk **meningkatkan efisiensi bisnis** serta memastikan pertumbuhan profitabilitas yang berkelanjutan melalui pelayanan prima.
+                        Berambisi untuk menempati posisi manajemen strategis di industri F&B di mana saya dapat menerapkan kemampuan analitis data dan kepemimpinan tim untuk meningkatkan efisiensi bisnis serta memastikan pertumbuhan profitabilitas yang berkelanjutan melalui pelayanan prima.
                     </p>
                 </div>
             </div>
@@ -82,12 +82,14 @@
                     </a>
                 </div>
 
-                <div class="flex flex-col md:flex-row gap-4 w-full justify-center">
-                    <a href="#" class="flex items-center justify-center gap-3 bg-black text-white px-10 py-4 rounded-xl font-bold hover:bg-gray-800 transition-all w-full md:w-auto shadow-xl">
-                        <i class="fas fa-file-download"></i> DOWNLOAD CV (PDF)
-                    </a>
-                    <a href="https://wa.me/628112683668" target="_blank" class="flex items-center justify-center gap-3 bg-green-500 text-white px-10 py-4 rounded-xl font-bold hover:bg-green-600 transition-all w-full md:w-auto shadow-xl">
-                        <i class="fab fa-whatsapp text-lg"></i> HUBUNGI SAYA
+               <div class="flex flex-col md:flex-row gap-4 w-full justify-center">
+    <a href="Migi Setyo Sugiarto Adi (10).pdf" download="CV_Migi_Setyo_Adi" class="flex items-center justify-center gap-3 bg-black text-white px-10 py-4 rounded-xl font-bold hover:bg-gray-800 transition-all w-full md:w-auto shadow-xl">
+        <i class="fas fa-file-download"></i> DOWNLOAD CV (PDF)
+    </a>
+    
+    <a href="https://wa.me/628112683668" target="_blank" class="flex items-center justify-center gap-3 bg-green-500 text-white px-10 py-4 rounded-xl font-bold hover:bg-green-600 transition-all w-full md:w-auto shadow-xl">
+        <i class="fab fa-whatsapp text-lg"></i> HUBUNGI SAYA
+    </a>
                     </a>
                 </div>
             </div>
@@ -95,7 +97,7 @@
         </div>
 
         <footer class="bg-gray-50 p-6 text-center border-t border-gray-100">
-            <p class="text-gray-400 text-[10px] font-bold uppercase tracking-[0.3em]">Migi Setyo Sugiarto Adi &copy; 2024</p>
+            <p class="text-gray-400 text-[10px] font-bold uppercase tracking-[0.3em]">Migi Setyo Sugiarto Adi &copy; 2026</p>
         </footer>
     </div>
 
