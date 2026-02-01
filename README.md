@@ -30,7 +30,7 @@
                 <div class="bg-gray-50 p-6 rounded-2xl border border-gray-100 shadow-sm">
                     <h2 class="text-xs font-black uppercase tracking-widest text-gray-400 mb-3">Executive Summary</h2>
                     <p class="text-gray-700 text-sm leading-relaxed">
-                        Lulusan Tata Boga SMKN 6 Semarang dengan 5+ tahun pengalaman di industri F&B. Memiliki kombinasi unik keahlian teknis Barista dan kemampuan strategis Admin Purchasing serta Store Manager. Terbukti mampu mengelola stok dan menekan waste hingga 15%.
+                        Lulusan Tata Boga SMKN 6 Semarang dengan 5+ tahun pengalaman di industri F&B. Memiliki kombinasi unik keahlian teknis Barista dan kemampuan strategis Admin Purchasing serta Store Manager. Terbukti mampu mengelola stok dan menekan waste hingga 15% serta meningkatkan penjualan hingga 5%.
                     </p>
                 </div>
                 <div class="bg-gray-50 p-6 rounded-2xl border border-gray-100 shadow-sm">
